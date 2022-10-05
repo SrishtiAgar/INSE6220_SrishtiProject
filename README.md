@@ -1,1 +1,1 @@
-# INSE6220_SrishtiProject
+# INSE 6220 Srishti Project
